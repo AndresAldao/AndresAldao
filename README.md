@@ -19,5 +19,3 @@ LENGUAJES Y HERRAMIENTAS
 -------------------------------------------------------------------------------------------------------------------------
 ![189976979-ba75275e-9573-4a46-85bd-c18edd18c418](https://user-images.githubusercontent.com/107947659/200339464-3f3aa96a-ed99-40f9-87d2-9f9ab37fb172.png)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAldao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
