@@ -24,9 +24,10 @@ LENGUAJES Y HERRAMIENTAS
 
 GitHub Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
-<div>
-[![AndresAldao's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresAldao)](https://github.com/anuraghazra/github-readme-stats)
- <a href="https://github.com/AndresAldao" >
+<div align="center">
+<a href="http://www.github.com/AndresAldao">
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=AndresAldao&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&locale=es" alt="BautistaBaigorri's GitHub stats" />
+    </a>
     <img height="200em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAldao&locale=es&custom_title=Top%20%Languages&layout=compact&theme=github_dark" alt="Top Languages" />
     </a>
 </div
