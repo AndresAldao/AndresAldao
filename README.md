@@ -25,3 +25,11 @@ LENGUAJES Y HERRAMIENTAS
 GitHub Stats
 -------------------------------------------------------------------------------------------------------------------------
 [![AndresAldao's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresAldao)](https://github.com/anuraghazra/github-readme-stats)
+
+🤝 Conectá conmigo 📫
+-------------------------------------------------------------------------------------------------------------------------
+<p align="start">
+    </a><a href="https://www.linkedin.com/in/andres-aldao-50804b183/"><img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+     Andres Aldao
+    </a>
+<p/>
