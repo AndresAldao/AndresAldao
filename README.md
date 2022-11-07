@@ -30,7 +30,7 @@ GitHub Stats
     </a>
     <img height="150em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAldao&locale=es&custom_title=Top%20%Languages&layout=compact&theme=github_dark" alt="Top Languages" />
     </a>
-</div
+</div>
 
 🤝 Conectá conmigo 📫
 ------------------------------------------------------------------------------------------------------------------------------------------
