@@ -24,11 +24,11 @@ LENGUAJES Y HERRAMIENTAS
 
 GitHub Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
+<div>
 <a href="http://www.github.com/AndresAldao">
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=AndresAldao&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&locale=es" alt="BautistaBaigorri's GitHub stats" />
+    <img height="150em" align="left"  src="https://github-readme-stats.vercel.app/api?username=AndresAldao&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&locale=es" alt="BautistaBaigorri's GitHub stats" />
     </a>
-    <img height="200em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAldao&locale=es&custom_title=Top%20%Languages&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img height="150em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresAldao&locale=es&custom_title=Top%20%Languages&layout=compact&theme=github_dark" alt="Top Languages" />
     </a>
 </div
 
